@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-11-12T12:32:54" hostname="DESKTOP-REP0V73" time="0.007">
+  <properties/>
+  <testcase name="test()" classname="MainTest" time="0.006"/>
+  <testcase name="test2()" classname="MainTest" time="0.0"/>
+  <system-out><![CDATA[beforeAll
+beforeEach
+test
+afterEach
+beforeEach
+test2
+afterEach
+afterAll
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
